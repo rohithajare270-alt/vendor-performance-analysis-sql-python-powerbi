@@ -101,5 +101,9 @@ The Power BI dashboard includes:
 ## Author
 **Rohit Hajare**  
 Data Analyst | Python | SQL | Power BI
+Email : rohithajare270@gmail.com
+linkdin : https://www.linkedin.com/in/rohit-hajare-95052b292
+
+
 
 
