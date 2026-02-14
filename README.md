@@ -1,69 +1,104 @@
-Vendor Performance Analysis
-Business Problem
+# 📊 Vendor Performance Analysis – Retail Inventory & Sales  
 
-Retail businesses often struggle to identify which vendors drive profitability and which lock capital through unsold inventory.
-This project analyzes vendor-level sales, profit, and inventory data to help management:
+*Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using Python, SQL, and Power BI.*
 
-Identify high- and low-performing vendors
+---
 
-Reduce capital locked in unsold inventory
+## 📑 Table of Contents
+- [Overview](#overview)  
+- [Business Problem](#business-problem)  
+- [Dataset](#dataset)  
+- [Tools & Technologies](#tools--technologies)  
+- [Project Structure](#project-structure)  
+- [Data Cleaning & Preparation](#data-cleaning--preparation)  
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+- [Key Insights](#key-insights)  
+- [Dashboard](#dashboard)  
+- [Business Recommendations](#business-recommendations)  
+- [How to Run This Project](#how-to-run-this-project)  
+- [Author](#author)
 
-Improve profit margins
+---
 
-Optimize supplier relationships
+## Overview
+This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization.  
+A complete data pipeline was built using **SQL for ETL**, **Python for analysis**, and **Power BI for visualization**.
 
-Project Objective
+---
 
-To build a data-driven framework that:
+## Business Problem
+Retail companies often struggle to:
+- Identify which vendors generate profits  
+- Detect suppliers that lock capital through unsold inventory  
+- Optimize supplier strategy based on performance  
 
-Ranks vendors based on revenue and profitability
+This project aims to solve these challenges using data.
 
-Identifies underperforming and high-risk vendors
+---
 
-Analyzes inventory inefficiencies
+## Dataset
+- Vendor-level sales and inventory data  
+- Includes: sales price, profit, stock quantity, unsold inventory value  
+- Cleaned and structured for analytics  
 
-Supports strategic sourcing and business decisions
+---
 
-Tools & Technologies
+## Tools & Technologies
+- **Python** – Pandas, NumPy, Matplotlib  
+- **SQL** – Joins, aggregations, KPI calculations  
+- **Power BI** – KPI dashboards, vendor ranking, trend analysis  
 
-Python – Data cleaning, EDA, feature engineering
+---
 
-SQL – Aggregations, joins, KPI calculations
+## Data Cleaning & Preparation
+- Removed duplicates and null values  
+- Standardized numeric columns  
+- Created KPIs such as Profit Margin & Inventory Turnover  
+- Aggregated vendor-level performance metrics  
 
-Power BI – Interactive dashboards & KPIs
+---
 
-Key Metrics
+## Exploratory Data Analysis (EDA)
+- Revenue contribution by vendor  
+- Profit margin distribution  
+- Unsold inventory value analysis  
+- Vendor risk segmentation  
 
-Total Sales
+---
 
-Profit Margin
+## Key Insights
+- A small group of vendors contributes most revenue  
+- Several vendors lock high capital in unsold stock  
+- Low-margin vendors reduce overall profitability  
+- Optimizing vendor mix can significantly improve performance  
 
-Inventory Turnover
+---
 
-Unsold Inventory Value
+## Dashboard
+The Power BI dashboard includes:
+- Vendor performance ranking  
+- Sales & profit trends  
+- Inventory risk analysis  
+- KPI cards  
 
-Vendor Contribution %
+---
 
-Key Insights
+## Business Recommendations
+- Re-negotiate or replace low-margin vendors  
+- Reduce stock for slow-moving suppliers  
+- Prioritize high-performing vendors  
+- Implement performance-based supplier contracts  
 
-A small group of vendors contributes the majority of revenue.
+---
 
-Several vendors lock high capital in unsold stock.
+## How to Run This Project
+1. Open `.ipynb` files in Jupyter or VS Code  
+2. Run `ingestion_db.py` to load data  
+3. Explore dashboards using Power BI  
 
-Low-margin vendors reduce overall profitability.
+---
 
-Optimizing vendor mix can significantly improve business performance.
+## Author
+**Rohit Hajare**  
+Data Analyst | Python | SQL | Power BI
 
-Business Recommendations
-
-Re-negotiate or replace low-margin vendors
-
-Reduce inventory for slow-moving suppliers
-
-Prioritize high-performing vendors
-
-Implement performance-based supplier contracts
-
-Project Value
-
-This project demonstrates how data analytics can transform vendor management into a strategic, profit-driven process.
