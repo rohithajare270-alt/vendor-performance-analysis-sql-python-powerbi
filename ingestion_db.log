@@ -1,0 +1,56 @@
+2026-02-02 09:44:28,078 - INFO - Ingesting begin_inventory.csv into database
+2026-02-02 09:44:33,811 - INFO - Ingesting end_inventory.csv into database
+2026-02-02 09:44:48,593 - INFO - Ingesting purchases.csv into database
+2026-02-02 09:46:23,470 - INFO - Ingesting purchase_prices.csv into database
+2026-02-02 09:46:23,951 - INFO - Ingesting vendor_invoice.csv into database
+2026-02-02 09:46:24,117 - INFO - ------------ Ingestion Complete ------------
+2026-02-02 09:46:24,118 - INFO - Total Time Taken: 1.948404312133789 minutes
+2026-02-02 09:47:28,335 - INFO - Ingesting begin_inventory.csv into database
+2026-02-02 09:47:33,490 - INFO - Ingesting end_inventory.csv into database
+2026-02-02 09:47:48,043 - INFO - Ingesting purchases.csv into database
+2026-02-02 09:49:23,041 - INFO - Ingesting purchase_prices.csv into database
+2026-02-02 09:49:23,659 - INFO - Ingesting vendor_invoice.csv into database
+2026-02-02 09:49:23,969 - INFO - ------------ Ingestion Complete ------------
+2026-02-02 09:49:23,970 - INFO - Total Time Taken: 1.9359487215677897 minutes
+2026-02-02 10:10:35,715 - ERROR - No such comm target registered: jupyter.widget.control
+2026-02-02 10:10:35,721 - WARNING - No such comm: c7b65447-07a2-4d74-90cc-95bcb54ad533
+2026-02-02 10:10:35,721 - DEBUG - Current comms: []
+2026-02-02 11:14:58,739 - INFO - Ingesting begin_inventory.csv into database
+2026-02-02 11:15:03,251 - INFO - Ingesting end_inventory.csv into database
+2026-02-02 11:15:12,423 - INFO - Ingesting purchases.csv into database
+2026-02-02 11:16:18,454 - INFO - Ingesting purchase_prices.csv into database
+2026-02-02 11:16:43,994 - INFO - Ingesting sales.csv into database
+2026-02-02 15:50:28,965 - INFO - Ingesting begin_inventory.csv into database
+2026-02-02 15:50:34,594 - INFO - Ingesting end_inventory.csv into database
+2026-02-02 15:50:48,959 - INFO - Ingesting purchases.csv into database
+2026-02-02 15:52:29,870 - INFO - Ingesting purchase_prices.csv into database
+2026-02-02 15:53:08,231 - INFO - Ingesting sales.csv into database
+2026-02-06 16:05:55,151 - INFO -Ingesting begin_inventory.csv in DB
+2026-02-06 16:06:00,658 - INFO -Ingesting end_inventory.csv in DB
+2026-02-06 16:06:16,459 - INFO -Ingesting purchases.csv in DB
+2026-02-06 16:07:57,274 - INFO -Ingesting purchase_prices.csv in DB
+2026-02-06 16:08:34,900 - INFO -Ingesting sales.csv in DB
+2026-02-06 16:48:17,891 - INFO - Ingesting begin_inventory.csv in DB
+2026-02-06 16:50:40,721 - INFO - Ingesting begin_inventory.csv in DB
+2026-02-06 16:51:09,465 - INFO - Ingesting end_inventory.csv in DB
+2026-02-06 16:51:48,649 - INFO - Ingesting purchases.csv in DB
+2026-02-06 16:59:58,358 - INFO - Ingesting purchase_prices.csv in DB
+2026-02-06 17:00:19,460 - INFO - Ingesting sales.csv in DB
+2026-02-06 17:23:37,688 - INFO - Ingesting begin_inventory.csv in db
+2026-02-06 17:23:40,172 - INFO - Ingesting end_inventory.csv in db
+2026-02-06 17:23:46,783 - INFO - Ingesting purchases.csv in db
+2026-02-06 17:24:25,566 - INFO - Ingesting purchase_prices.csv in db
+2026-02-06 17:24:43,666 - INFO - Ingesting sales.csv in db
+2026-02-06 18:22:46,019 - INFO - Ingesting begin_inventory.csv in db
+2026-02-06 18:22:48,747 - INFO - Ingesting end_inventory.csv in db
+2026-02-06 18:22:55,742 - INFO - Ingesting purchases.csv in db
+2026-02-06 18:23:48,336 - INFO - Ingesting purchase_prices.csv in db
+2026-02-06 18:24:09,156 - INFO - Ingesting sales.csv in db
+2026-02-07 13:04:38,638 - INFO - Ingesting begin_inventory.csv in db
+2026-02-07 13:04:40,847 - INFO - Ingesting end_inventory.csv in db
+2026-02-07 13:04:47,558 - INFO - Ingesting purchases.csv in db
+2026-02-07 13:06:23,270 - INFO - Ingesting purchase_prices.csv in db
+2026-02-07 13:07:06,580 - INFO - Ingesting sales.csv in db
+2026-02-07 13:27:48,737 - INFO - Ingesting vendor_invoice.csv in db
+2026-02-07 13:27:49,132 - INFO - -----------------Ingestion Completed---------------
+2026-02-07 13:27:49,132 - INFO - Total Time Taken: 23.18 minutes
